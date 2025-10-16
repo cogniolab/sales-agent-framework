@@ -323,6 +323,6 @@ We chose AGPL-3.0 (not MIT) to:
 
 ---
 
-**Built with ❤️ by [Cognio Labs](https://www.cogniolab.com)**
+**Built with ❤️ by [Cognio Lab](https://cogniolab.com)**
 
-*Sales Agent Framework is the open-source foundation. Upgrade to [Cognio Cloud](https://www.cogniolab.com) for managed service, advanced features, and enterprise support.*
+*Sales Agent Framework is the open-source foundation. Upgrade to [Cognio Cloud](https://cogniolab.com) for managed service, advanced features, and enterprise support.*
