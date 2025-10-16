@@ -268,7 +268,7 @@ For organizations that want to:
 - Get white-label deployment rights
 - Receive priority support
 
-Contact: licensing@cogniolabs.com
+Contact: licensing@cogniolab.com
 
 ### Why AGPL-3.0?
 
@@ -311,10 +311,9 @@ We chose AGPL-3.0 (not MIT) to:
 
 ## 💬 Community
 
-- **GitHub Issues** - Bug reports and feature requests
-- **GitHub Discussions** - Questions and community chat
-- **Twitter/X** - [@cogniolabs](https://twitter.com/cogniolabs)
-- **Email** - hello@cogniolabs.com
+- **[GitHub Issues](https://github.com/cogniolab/sales-agent-framework/issues)** - Bug reports and feature requests
+- **[GitHub Discussions](https://github.com/cogniolab/sales-agent-framework/discussions)** - Questions and community chat
+- **Email** - dev@cogniolab.com
 
 ## 📊 Stats
 
@@ -325,6 +324,6 @@ We chose AGPL-3.0 (not MIT) to:
 
 ---
 
-**Built with ❤️ by [Cognio Labs](https://cogniolabs.com)**
+**Built with ❤️ by [Cognio Labs](https://www.cogniolab.com)**
 
-*Sales Agent Framework is the open-source foundation. Upgrade to [Cognio Cloud](https://cogniolabs.com) for managed service, advanced features, and enterprise support.*
+*Sales Agent Framework is the open-source foundation. Upgrade to [Cognio Cloud](https://www.cogniolab.com) for managed service, advanced features, and enterprise support.*
