@@ -312,7 +312,6 @@ We chose AGPL-3.0 (not MIT) to:
 ## 💬 Community
 
 - **[GitHub Issues](https://github.com/cogniolab/sales-agent-framework/issues)** - Bug reports and feature requests
-- **[GitHub Discussions](https://github.com/cogniolab/sales-agent-framework/discussions)** - Questions and community chat
 - **Email** - dev@cogniolab.com
 
 ## 📊 Stats
