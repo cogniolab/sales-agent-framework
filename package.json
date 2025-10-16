@@ -1,0 +1,44 @@
+{
+  "name": "sales-agent-framework",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source sales and CRM automation agent framework",
+  "keywords": [
+    "sales-automation",
+    "crm",
+    "ai-agents",
+    "sales-agents",
+    "lead-generation",
+    "automation",
+    "open-source"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cogniolab/sales-agent-framework.git"
+  },
+  "license": "AGPL-3.0",
+  "author": "Cognio Labs",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "clean": "turbo run clean && rm -rf node_modules",
+    "format": "prettier --write \"**/*.{ts,tsx,md,json}\"",
+    "typecheck": "turbo run typecheck"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "prettier": "^3.2.4",
+    "turbo": "^1.11.3",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.1"
+}
