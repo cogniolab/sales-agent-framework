@@ -311,8 +311,13 @@ We chose AGPL-3.0 (not MIT) to:
 
 ## 💬 Community
 
+Join our community to ask questions, share ideas, and connect with other developers building sales automation agents!
+
+- **[GitHub Discussions](https://github.com/cogniolab/sales-agent-framework/discussions)** - Ask questions, share your work, and discuss best practices
 - **[GitHub Issues](https://github.com/cogniolab/sales-agent-framework/issues)** - Bug reports and feature requests
 - **Email** - dev@cogniolab.com
+
+We're building a supportive community where developers help each other create powerful sales automation workflows. Whether you're just getting started or have years of experience, your questions and contributions are welcome!
 
 ## 📊 Stats
 
